@@ -1,5 +1,4 @@
-Assessing Your Organization's Needs and Goals for Augmented Intelligence Implementation
-=======================================================================================================================================================
+
 
 Before implementing augmented intelligence, it is essential to assess your organization's needs and goals. In this chapter, we will examine how to identify the needs and goals for augmented intelligence implementation.
 

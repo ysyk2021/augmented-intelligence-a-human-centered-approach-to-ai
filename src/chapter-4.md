@@ -1,5 +1,4 @@
-Chapter 3: Designing for Augmented Intelligence
-===============================================
+
 
 In this chapter, we will explore the key aspects of designing for augmented intelligence. This involves creating interfaces and interactions that best leverage the capabilities of both humans and machines. We will also examine the principles of human-centered design for augmented intelligence and provide case studies of successful implementations.
 

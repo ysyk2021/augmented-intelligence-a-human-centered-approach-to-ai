@@ -1,5 +1,4 @@
-Chapter 2: Preparing for Augmented Intelligence Implementation
-==============================================================
+
 
 Before implementing augmented intelligence, it is essential to prepare for the implementation process. In this chapter, we will examine some essential steps that organizations should take before implementing augmented intelligence.
 

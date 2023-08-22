@@ -1,8 +1,6 @@
-Assessing the Effectiveness of Augmented Intelligence on Organizational Performance
-==============================================================================================================================================
 
-Introduction
-------------
+
+
 
 In order to understand the impact of augmented intelligence on organizational performance, it is important to establish metrics and guidelines for evaluation. This chapter will explore some of the key considerations for assessing the effectiveness of augmented intelligence and measuring its impact on organizational performance.
 

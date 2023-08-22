@@ -1,5 +1,4 @@
-Chapter 6: Measuring the Impact of Augmented Intelligence
-=========================================================
+
 
 In this chapter, we'll explore how to measure the impact of augmented intelligence (AI) and continuously improve its effectiveness. By assessing the impact of AI on organizational performance and identifying areas for improvement, individuals and organizations can ensure that they're meeting their goals and improving outcomes.
 

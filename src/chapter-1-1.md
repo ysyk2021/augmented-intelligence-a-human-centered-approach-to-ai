@@ -1,5 +1,4 @@
-Why Augmented Intelligence is Important for a Human-Centered Approach to AI
-=========================================================================================
+
 
 In recent years, there has been significant progress in the development of artificial intelligence (AI) systems that can perform complex tasks more efficiently and accurately than humans. However, many of these systems lack the capability of understanding human needs and preferences, which can lead to unintended consequences and negative impacts on society.
 

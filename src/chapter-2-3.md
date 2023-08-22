@@ -1,5 +1,4 @@
-Benefits of Augmented Intelligence for a Human-Centered Approach to AI
-=======================================================================================================================
+
 
 In this chapter, we will explore the benefits of augmented intelligence in a human-centered approach to AI.
 

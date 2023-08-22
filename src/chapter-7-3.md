@@ -1,5 +1,4 @@
-Continuously Adapting and Improving Your Augmented Intelligence Approach
-===================================================================================================================================
+
 
 Identifying Areas for Improvement and Refinement
 ------------------------------------------------
