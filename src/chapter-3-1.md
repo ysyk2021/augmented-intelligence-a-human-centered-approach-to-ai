@@ -1,5 +1,4 @@
 
-
 Before implementing augmented intelligence, it is essential to assess your organization's needs and goals. In this chapter, we will examine how to identify the needs and goals for augmented intelligence implementation.
 
 Understanding Business Processes and Opportunities

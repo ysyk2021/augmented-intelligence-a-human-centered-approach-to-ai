@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore examples of successful augmented intelligence (AI) implementations and discuss the principles that guided their design. By examining these case studies, we can gain insights into how to design effective AI tools and systems that enhance human capabilities.
 
 Case Study #1: IBM Watson Health

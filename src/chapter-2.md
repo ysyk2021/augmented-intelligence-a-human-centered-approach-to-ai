@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the concept of augmented intelligence and its differences from artificial intelligence. We will also discuss the benefits of augmented intelligence in a human-centered approach to AI.
 
 Definition of Augmented Intelligence

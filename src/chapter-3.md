@@ -1,5 +1,4 @@
 
-
 Before implementing augmented intelligence, it is essential to prepare for the implementation process. In this chapter, we will examine some essential steps that organizations should take before implementing augmented intelligence.
 
 Assessing Your Organization's Needs and Goals for Augmented Intelligence Implementation

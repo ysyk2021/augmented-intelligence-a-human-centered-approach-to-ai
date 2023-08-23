@@ -1,5 +1,4 @@
 
-
 In recent years, there has been significant progress in the development of artificial intelligence (AI) systems that can perform complex tasks more efficiently and accurately than humans. However, many of these systems lack the capability of understanding human needs and preferences, which can lead to unintended consequences and negative impacts on society.
 
 Augmented intelligence is an approach that seeks to address this issue by building systems that augment human intelligence rather than replace it. This approach recognizes that humans have unique skills and perspectives that are valuable in decision-making and problem-solving. By augmenting human intelligence with AI, we can create systems that are more effective, efficient, and equitable.

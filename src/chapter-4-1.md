@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the principles of human-centered design for augmented intelligence and how they can be applied in practice. The goal of human-centered design is to create technology that is both effective and intuitive for humans to use. In the context of augmented intelligence, this means designing systems that augment human capabilities and enable users to make better decisions.
 
 Principle 1: Understand User Needs

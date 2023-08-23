@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the differences between augmented intelligence (AI) and artificial intelligence (AI). While the two terms are often used interchangeably, there are important distinctions between them.
 
 What is Artificial Intelligence?

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become a significant part of our lives, transforming industries and changing the way we work, learn, and interact with each other. However, as AI continues to advance, there are growing concerns about its impact on society, particularly in terms of job displacement, bias, privacy, and ethical considerations.
 
 Augmented intelligence (AI) is an approach that seeks to address these concerns by enhancing human capabilities rather than replacing them. By integrating AI tools and systems into human decision-making processes, augmented intelligence can improve accuracy, efficiency, and overall outcomes while also promoting transparency, fairness, and responsibility.

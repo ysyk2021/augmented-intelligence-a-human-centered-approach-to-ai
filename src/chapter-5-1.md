@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of the various industries where augmented intelligence is being applied and explore potential use cases in each industry. Additionally, we will examine how augmented intelligence is being leveraged to solve industry-specific challenges.
 
 Healthcare

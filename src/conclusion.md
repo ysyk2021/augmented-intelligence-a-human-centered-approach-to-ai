@@ -1,5 +1,4 @@
 
-
 Recap of Key Takeaways from the Book
 ------------------------------------
 

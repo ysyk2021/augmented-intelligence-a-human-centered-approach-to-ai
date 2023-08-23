@@ -1,7 +1,4 @@
 
-
-
-
 Implementing augmented intelligence systems can be challenging, but it is becoming increasingly important for organizations to leverage these technologies in order to stay competitive. In this chapter, we will explore some case studies of successful augmented intelligence implementations and examine best practices for implementing these systems effectively.
 
 Case Study #1: IBM Watson in Healthcare

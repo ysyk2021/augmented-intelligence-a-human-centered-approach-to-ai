@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore best practices for designing interfaces and interactions with augmented intelligence (AI). By focusing on the user experience and designing interfaces that are intuitive and easy to use, designers can create AI tools that enhance human capabilities and improve outcomes.
 
 Focus on User Needs

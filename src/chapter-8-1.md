@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the implications of augmented intelligence (AI) for the workforce. As AI technology continues to advance, it's important to understand how it will impact the nature of work and the skills required for success in the workplace.
 
 The Changing Nature of Work
