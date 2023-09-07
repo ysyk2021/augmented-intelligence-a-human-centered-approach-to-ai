@@ -32,3 +32,4 @@
   - [Case studies of successful adoption of augmented intelligence in the workplace](chapter-8-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
