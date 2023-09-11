@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Organization's Needs and Goals for Augmented Intelligence Implementation
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before embarking on the implementation of augmented intelligence (AI) solutions, it is crucial for organizations to assess their specific needs and goals. Taking a human-centered approach involves aligning AI technologies with the organization's strategic objectives and addressing the unique challenges and opportunities they face. In this chapter, we will explore the process of evaluating your organization's needs and goals for augmented intelligence implementation.
 

@@ -1,5 +1,4 @@
-Chapter 5: Overview of Augmented Intelligence Applications across Industries
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Augmented intelligence (AI) has the potential to revolutionize various industries by enhancing human capabilities and improving decision-making processes. Here, we provide an overview of the diverse applications of augmented intelligence across different industry sectors.
 

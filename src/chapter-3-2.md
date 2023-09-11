@@ -1,5 +1,4 @@
-Chapter 3: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data is a critical component for the development and implementation of augmented intelligence (AI) solutions. Adequate data availability and quality are essential for building accurate and robust models that can provide insights and support decision-making processes. In this chapter, we will discuss the importance of evaluating data availability and quality in the context of implementing augmented intelligence solutions.
 

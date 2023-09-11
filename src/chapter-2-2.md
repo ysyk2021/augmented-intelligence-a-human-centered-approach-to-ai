@@ -1,5 +1,4 @@
-Chapter 4: Differences between Augmented Intelligence and Artificial Intelligence
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While augmented intelligence (AI) and artificial intelligence (AI) are both branches of computer science that deal with intelligent machines, they have significant differences in their approach and goals. Understanding these differences is crucial for developing a human-centered approach to AI.
 

@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Augmented Intelligence for a Human-Centered Approach to AI
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Augmented intelligence is a powerful approach to artificial intelligence that prioritizes a human-centered approach to AI development. By enhancing human intelligence rather than replacing it, augmented intelligence offers several benefits for achieving a more human-centered approach to AI.
 

@@ -1,5 +1,4 @@
-Chapter 6: Identifying Potential Implementation Challenges
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing augmented intelligence (AI) technologies in a human-centered approach comes with its own set of challenges. In this chapter, we will discuss some of the potential challenges that organizations may face when adopting augmented intelligence solutions.
 

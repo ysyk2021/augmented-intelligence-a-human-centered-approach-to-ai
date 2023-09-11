@@ -1,5 +1,4 @@
-Chapter 9: Best Practices for Designing Interfaces and Interactions with Augmented Intelligence
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Designing interfaces and interactions with augmented intelligence requires a thoughtful and human-centered approach. In this chapter, we will explore best practices that can guide designers in creating intuitive, effective, and user-friendly interfaces for augmented intelligence systems.
 
